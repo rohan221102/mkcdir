@@ -1,5 +1,5 @@
 # mkcdir
-A simple console utility to combine mkdir, and cd in one command.
+A simple console utility to combine mkdir, and cd in one command. Works with zsh and bash.
 
 # mkcdir Installation Instructions
 
